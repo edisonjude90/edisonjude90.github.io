@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Edison Trutwein',
+  tagline: 'Edison Trutwein Blog',
   favicon: 'img/favicon.ico',
   trailingSlash: false,
 
@@ -40,6 +40,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/docs',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -75,7 +76,7 @@ const config = {
         title: 'Edison Trutwein',
         logo: {
           alt: 'edison trutwein',
-          src: 'https://avatars.githubusercontent.com/u/22928888?s=400&u=f4f132d7e67f5854dd1df10a73b3be64d7650c46&v=4',
+          src: 'https://avatars.githubusercontent.com/u/22928888?s=400&u=5fa3c76ba6b81bf4ac1369de6c6d6c6dacd7a314&v=4',
         },
         items: [
           { to: '/', label: 'Blog', position: 'left' },
@@ -94,7 +95,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Bazinga !!`,
+        copyright: `2023`,
       },
       prism: {
         theme: lightCodeTheme,
