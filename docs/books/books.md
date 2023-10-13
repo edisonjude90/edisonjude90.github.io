@@ -1,48 +1,39 @@
 ---
 sidebar_position: 1
-slug: /
+slug: /books
+title: Books Read
 ---
 
-# Books Read
+I have enjoyed reading these books :) 
 
-Let's discover **Docusaurus in less than 5 minutes**.
+<br />
 
-## Getting Started
+** Who Moved My Cheese ** by Spencer Johnson
 
-Get started by **creating a new site**.
+** The Power Of Words: Words are free, its how you use them that may cost you ** by Rev. J Martin
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+** Revolution 2020 ** by Chetan Bhagat
 
-### What you'll need
+** The Old Man and the Sea **  by Ernest Hemingway
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+** This Was a Man ** (Clifton Chronicles - Book 7) by Jeffrey Archer
 
-## Generate a new site
+** Cometh the Hour ** (Clifton Chronicles - Book 6) by Jeffrey Archer 
 
-Generate a new Docusaurus site using the **classic template**.
+** Mightier than the Sword ** (Clifton Chronicles - Book 5) by Jeffrey Archer 
 
-The classic template will automatically be added to your project after you run the command:
+** Be Careful What You Wish For **  (Clifton Chronicles - Book 4) by Jeffrey Archer 
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+** Best Kept Secret ** (Clifton Chronicles - Book 3) by Jeffrey Archer 
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+** The Sins of the Father ** (Clifton Chronicles - Book 2) by Jeffrey Archer 
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+** Only Time Will Tell ** (Clifton Chronicles - Book 1) by Jeffrey Archer 
 
-## Start your site
+** White Noise ** by Andaleeb Wajid
 
-Run the development server:
+** One Night at the call center ** by Chetan Bhagat
 
-```bash
-cd my-website
-npm run start
-```
+** Half Girlfriend ** by Chetan Bhagat
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+** The 3 Mistakes of My Life ** by Chetan Bhagat
