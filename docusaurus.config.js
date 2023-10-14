@@ -71,7 +71,7 @@ const config = {
         }
       ],
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://avatars.githubusercontent.com/u/22928888?s=400&u=5fa3c76ba6b81bf4ac1369de6c6d6c6dacd7a314&v=4',
       navbar: {
         title: 'Edison Trutwein',
         logo: {
