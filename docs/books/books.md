@@ -8,6 +8,8 @@ I have enjoyed reading these books :)
 
 <br />
 
+** It Will All Work Out: The Freedom of Letting Go ** by Kevin Hart
+
 ** Who Moved My Cheese ** by Spencer Johnson
 
 ** The Power Of Words: Words are free, its how you use them that may cost you ** by Rev. J Martin
