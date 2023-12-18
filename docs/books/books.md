@@ -8,6 +8,8 @@ I have enjoyed reading these books :)
 
 <br />
 
+** A Man Called Ove ** by Fredrik Backman
+
 ** It Will All Work Out: The Freedom of Letting Go ** by Kevin Hart
 
 ** Who Moved My Cheese ** by Spencer Johnson
